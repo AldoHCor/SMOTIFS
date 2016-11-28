@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "locating_gaps_one.py", line 24, in <module>
+    pdb_file = open(broken_prot, "r")
+IOError: [Errno 2] No such file or directory: './Broken/.pdb'
